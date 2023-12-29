@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D4DED10B-04E9-4298-8C70-234A3DAEDF16}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FrutosSecosAPP</RootNamespace>
+    <AssemblyName>FrutosSecosAPP</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.Core, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite, Version=1.0.115.5, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.115.5, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.115.5\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.115.5, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.115.5\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BotonProducto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BotonProducto.Designer.cs">
+      <DependentUpon>BotonProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\DBProductos.cs" />
+    <Compile Include="ConexionBase.cs" />
+    <Compile Include="EnsayoBasededatosDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EnsayoBasededatosDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ForClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForClientes.Designer.cs">
+      <DependentUpon>ForClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCarrito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCarrito.Designer.cs">
+      <DependentUpon>FormCarrito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMap.Designer.cs">
+      <DependentUpon>FormMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProveedor.Designer.cs">
+      <DependentUpon>FormProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForNosotros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForNosotros.Designer.cs">
+      <DependentUpon>ForNosotros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForPedidos.Designer.cs">
+      <DependentUpon>ForPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForProductos.Designer.cs">
+      <DependentUpon>ForProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForPunto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForPunto.Designer.cs">
+      <DependentUpon>ForPunto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForMenu.Designer.cs">
+      <DependentUpon>ForMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForRegistroAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForRegistroAdmin.Designer.cs">
+      <DependentUpon>ForRegistroAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForRegistroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForRegistroCliente.Designer.cs">
+      <DependentUpon>ForRegistroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForVendedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForVendedores.Designer.cs">
+      <DependentUpon>ForVendedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuClientes.Designer.cs">
+      <DependentUpon>MenuClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProdCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProdCli.Designer.cs">
+      <DependentUpon>ProdCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BotonProducto.resx">
+      <DependentUpon>BotonProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForClientes.resx">
+      <DependentUpon>ForClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCarrito.resx">
+      <DependentUpon>FormCarrito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMap.resx">
+      <DependentUpon>FormMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProveedor.resx">
+      <DependentUpon>FormProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForNosotros.resx">
+      <DependentUpon>ForNosotros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForPedidos.resx">
+      <DependentUpon>ForPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForProductos.resx">
+      <DependentUpon>ForProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForPunto.resx">
+      <DependentUpon>ForPunto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForMenu.resx">
+      <DependentUpon>ForMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForRegistroAdmin.resx">
+      <DependentUpon>ForRegistroAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForRegistroCliente.resx">
+      <DependentUpon>ForRegistroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForVendedores.resx">
+      <DependentUpon>ForVendedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuClientes.resx">
+      <DependentUpon>MenuClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProdCli.resx">
+      <DependentUpon>ProdCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="EnsayoBasededatosDataSet.xsc">
+      <DependentUpon>EnsayoBasededatosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EnsayoBasededatosDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EnsayoBasededatosDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EnsayoBasededatosDataSet.xss">
+      <DependentUpon>EnsayoBasededatosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linea-negra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\letra-x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\almendra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutos_secos_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ezgif-3-56dd0bbc29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ezgif-3-ef9e6b5e60.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zyro-image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zyro-image-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copiar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zyro-image %281%29_preview_rev_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-trabajador-de-sexo-masculino-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carros %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-tienda-departamento-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tienda %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\objetivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bolsa-de-la-compra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2022-06-23 202402.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2 2022-06-23 204516.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 3 2022-06-23 204802.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 4 2022-06-23 204851.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 5 2022-06-23 204947.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forma-de-persona-llena-de-usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forma-de-persona-llena-de-usuario %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-apretón-de-manos-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\equipo %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-web.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-513040852-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-contacto-de-negocio-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jefe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frutos-secos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ezgif-3-56dd0bbc291.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Control-y-Analisis-de-Frutos-Secos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frutos-secos1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2022-07-01 051541.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f.elconfidencial.com_original_bef_e7a_c66_befe7ac66501753b6524e29e7d896e0b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-comprar.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>

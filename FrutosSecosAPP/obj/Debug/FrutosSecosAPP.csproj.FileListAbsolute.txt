@@ -1,0 +1,268 @@
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe.config
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.pdb
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.AssemblyReference.cache
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Login.resources
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Properties.Resources.resources
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.GenerateResource.cache
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CoreCompileInputs.cache
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.exe
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.pdb
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForMenu.resources
+C:\Users\lpine\source\repos\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPunto.resources
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe.config
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.pdb
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.AssemblyReference.cache
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Login.resources
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPunto.resources
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForMenu.resources
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Properties.Resources.resources
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.GenerateResource.cache
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CoreCompileInputs.cache
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.exe
+C:\Users\sebit\Desktop\TALLER DE BASE DE DATOS\Nueva carpeta\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.pdb
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe.config
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.pdb
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.AssemblyReference.cache
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Login.resources
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPunto.resources
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForMenu.resources
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Properties.Resources.resources
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.GenerateResource.cache
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CoreCompileInputs.cache
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.exe
+C:\Users\sebit\Desktop\Nueva carpeta (4)\SOL_FrutosSecosAPP\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.pdb
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe.config
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.pdb
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.AssemblyReference.cache
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Login.resources
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForProductos.resources
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPunto.resources
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForMenu.resources
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Properties.Resources.resources
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.GenerateResource.cache
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.exe
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.pdb
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.dll
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.Core.dll
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.dll
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.xml
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.xml
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.FormMap.resources
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CopyComplete
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe.config
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.pdb
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.dll
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.Core.dll
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.dll
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.xml
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.xml
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.AssemblyReference.cache
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Login.resources
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.FormMap.resources
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForProductos.resources
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPunto.resources
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForMenu.resources
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Properties.Resources.resources
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.GenerateResource.cache
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CoreCompileInputs.cache
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CopyComplete
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.exe
+C:\Users\sebit\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.pdb
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForClientes.resources
+C:\Users\basti\Desktop\trabajo1\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPedidos.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.AssemblyReference.cache
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForClientes.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Login.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.FormMap.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPedidos.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForProductos.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPunto.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForMenu.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Properties.Resources.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.GenerateResource.cache
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CoreCompileInputs.cache
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.exe
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.pdb
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe.config
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.pdb
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.dll
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.Core.dll
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.dll
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.xml
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.xml
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CopyComplete
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.MenuClientes.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.BotonProducto.resources
+C:\Users\lpine\Desktop\trabajo1def\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ProdCli.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe.config
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.pdb
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.dll
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.Core.dll
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.dll
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.xml
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.xml
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.AssemblyReference.cache
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.BotonProducto.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForClientes.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Login.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.FormMap.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.FormProveedor.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPedidos.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForProductos.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPunto.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForMenu.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.MenuClientes.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ProdCli.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Properties.Resources.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.GenerateResource.cache
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CoreCompileInputs.cache
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CopyComplete
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.exe
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.pdb
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForRegistroAdmin.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForRegistroCliente.resources
+C:\Users\sebit\Desktop\Nueva carpeta (6)\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForVendedores.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe.config
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.pdb
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.dll
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.Core.dll
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.dll
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.xml
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.xml
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.AssemblyReference.cache
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.BotonProducto.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForClientes.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Login.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.FormMap.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.FormProveedor.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPedidos.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForProductos.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPunto.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForMenu.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForRegistroAdmin.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForRegistroCliente.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForVendedores.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.MenuClientes.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ProdCli.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Properties.Resources.resources
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.GenerateResource.cache
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CoreCompileInputs.cache
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CopyComplete
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.exe
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.pdb
+C:\Users\lpine\Desktop\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForNosotros.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe.config
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.exe
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\FrutosSecosAPP.pdb
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.dll
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.Core.dll
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.dll
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.xml
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Data.SQLite.xml
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.AssemblyReference.cache
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.BotonProducto.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForClientes.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Login.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.FormCarrito.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.FormMap.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.FormProveedor.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForNosotros.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPedidos.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForProductos.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForPunto.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForMenu.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForRegistroAdmin.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForRegistroCliente.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ForVendedores.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.MenuClientes.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.ProdCli.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.Properties.Resources.resources
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.GenerateResource.cache
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CoreCompileInputs.cache
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.csproj.CopyComplete
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.exe
+C:\Users\sebit\Desktop\Universidad\proyectos c#\SOL_FrutosSecosAPP3\FrutosSecosAPP\obj\Debug\FrutosSecosAPP.pdb
